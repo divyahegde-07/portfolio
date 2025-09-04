@@ -22,9 +22,10 @@ When I’m not deep in code or tinkering with new tools, you’ll probably find 
 
 | Project Title | Description | Tech Stack | URL |
 |---------------|-------------|------------|-----|
-| one-L | AI/Legal project at The Burnes Center for Social Change, focused on automating vendor contract reviews. | Python, Data Science | [View Repo](https://github.com/The-Burnes-Center/one-L) |
+| one-L - | Legal Conflict detector focused on automating vendor contract reviews. | Python, AWS, Docker, Document conflict detection | [View Repo](https://github.com/The-Burnes-Center/one-L) |
 | Churn-Predictor | Predicts customer churn using ML techniques. | Python, scikit-learn, pandas | [View Repo](https://github.com/divyahegde-07/Churn-Predictor) |
-| ai4impact-abe-chatbot-osd-dh | AI chatbot for impact-focused applications. | Python, NLP libraries | [View Repo](https://github.com/divyahegde-07/ai4impact-abe-chatbot-osd-dh) |
+| Assistive Buyers' Engine | RAG search bot for procurement queries. | Python, AWS, RAGAS, Docker, RAG, Chatbot Evaluation | [View Repo](https://github.com/divyahegde-07/ai4impact-abe-chatbot-osd-dh) |
+| Blue Bikes Demand Forecasting | End-to-end ML pipeline that forecasts demand for BlueBikes in Boston stations. | Python, AirFlow, MLFLow Docker, GCP, Grafana | [View Repo](https://github.com/divyahegde-07/Blue-Bikes-Demand-Forecasting) |
 
 ## 🎓 Education  
 
