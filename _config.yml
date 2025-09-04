@@ -1,8 +1,9 @@
 title: Divya Hegde
-#logo: /assets/headshot.jpeg
-#description: MS Data Science @ Northeastern University | ex-Salesforce | Gen-AI Product co-op @ The Burnes Center for Social Change
+logo: /assets/headshot.jpeg
+description: MS Data Science @ Northeastern University | ex-Salesforce | Gen-AI Product co-op @ The Burnes Center for Social Change
 #show_downloads: true
 theme: jekyll-theme-minimal
+email: "divyahegdefte@gmail.com"
 author:
   # Biographic information
   avatar           : "/assets/headshot.jpeg"
