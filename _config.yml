@@ -1,7 +1,7 @@
 title: Divya Hegde
 logo: /assets/headshot.jpeg
-#description: text below image
-#show_downloads: true
+description: MS Data Science @ Northeastern University | ex-Salesforce | Gen-AI Product co-op @ The Burnes Center for Social Change
+show_downloads: true
 theme: jekyll-theme-minimal
 include: ["assets/style.css"]
 
