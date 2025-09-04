@@ -17,4 +17,4 @@ GPA: 3.86
 - Leadership & Activities: Course Content Assistant (Applied NLP for Engineering), Graduate Teaching Assistant (Foundations of Data Science)  
 
 **R V College of Engineering**, Bengaluru, India  
-*Bachelor of Engineering in Telecommunication Engineering* (Aug 2013 – May 2017)  
+*Bachelor of Engineering in Telecommunication Engineering*
