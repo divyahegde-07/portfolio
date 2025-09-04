@@ -7,3 +7,14 @@ As a data scientist, I focus on bridging research and application. I bring a str
 
 When I’m not deep in code or tinkering with new tools, you’ll probably find me surrounded by my plants or chasing mountain trails for great views. To me, both solutioning and hiking require the same things: curiosity, persistence, and a love for the climb.
 
+
+## 🎓 Education  
+
+**Northeastern University**, Boston, MA  
+*Master of Science in Data Science* (Sep 2023 – Aug 2025)  
+GPA: 3.86  
+- Courses: LLMs, MLOps, Unsupervised ML, Supervised ML, Database Management/Processing, Customer-Driven Technical Innovation, Capstone     Project  
+- Leadership & Activities: Course Content Assistant (Applied NLP for Engineering), Graduate Teaching Assistant (Foundations of Data Science)  
+
+**R V College of Engineering**, Bengaluru, India  
+*Bachelor of Engineering in Telecommunication Engineering* (Aug 2013 – May 2017)  
