@@ -7,6 +7,17 @@ As a data scientist, I focus on bridging research and application. I bring a str
 
 When I’m not deep in code or tinkering with new tools, you’ll probably find me surrounded by my plants or chasing mountain trails for great views. To me, both solutioning and hiking require the same things: curiosity, persistence, and a love for the climb.
 
+## 💼 Work Experience  
+
+**Gen-AI Product Engineer Co-op** – The Burnes Center for Social Change, Boston, MA  
+*Jan 2025 – Aug 2025*  
+
+**Member of Technical Staff** – Salesforce, India  
+*Apr 2020 – Jul 2023*  
+
+**Product Analyst** – MaxVal IP Services, India  
+*Aug 2018 – Apr 2020*  
+
 ## 🎓 Education  
 
 **Northeastern University**, Boston, MA  
