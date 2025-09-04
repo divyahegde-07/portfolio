@@ -18,6 +18,14 @@ When I’m not deep in code or tinkering with new tools, you’ll probably find 
 **Product Analyst** – MaxVal IP Services, India  
 *Aug 2018 – Apr 2020*  
 
+## 🛠 Projects  
+
+| Project Title | Description | Tech Stack | URL |
+|---------------|-------------|------------|-----|
+| one-L | AI/Legal project at The Burnes Center for Social Change, focused on automating vendor contract reviews. | Python, Data Science | [View Repo](https://github.com/The-Burnes-Center/one-L) |
+| Churn-Predictor | Predicts customer churn using ML techniques. | Python, scikit-learn, pandas | [View Repo](https://github.com/divyahegde-07/Churn-Predictor) |
+| ai4impact-abe-chatbot-osd-dh | AI chatbot for impact-focused applications. | Python, NLP libraries | [View Repo](https://github.com/divyahegde-07/ai4impact-abe-chatbot-osd-dh) |
+
 ## 🎓 Education  
 
 **Northeastern University**, Boston, MA  
