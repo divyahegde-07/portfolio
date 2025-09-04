@@ -31,7 +31,7 @@ When I’m not deep in code or tinkering with new tools, you’ll probably find 
 **Northeastern University**, Boston, MA  
 *Master of Science in Data Science* (Sep 2023 – Aug 2025)  
 GPA: 3.86  
-- Courses: LLMs, MLOps, Unsupervised ML, Supervised ML, Database Management/Processing, Customer-Driven Technical Innovation, Capstone     Project 
+- Courses: LLMs, MLOps, Unsupervised ML, Supervised ML, Database Management/Processing, Customer-Driven Technical Innovation, Capstone     Project
 - Leadership & Activities: Course Content Assistant (Applied NLP for Engineering), Graduate Teaching Assistant (Foundations of Data Science)  
 
 **R V College of Engineering**, Bengaluru, India  
