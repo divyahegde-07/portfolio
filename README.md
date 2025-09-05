@@ -24,7 +24,7 @@ When I’m not deep in code or tinkering with new tools, you’ll probably find 
 |---------------|-------------|------------|-----|
 | one-L | Legal Conflict detector focused on automating vendor contract reviews. | Python, AWS, Docker, Document conflict detection | [View Repo](https://github.com/The-Burnes-Center/one-L) |
 | Assistive Buyers' Engine | RAG search bot for procurement queries. | Python, AWS, RAGAS, Docker, RAG, Chatbot Evaluation | [View Repo](https://github.com/divyahegde-07/ai4impact-abe-chatbot-osd-dh) |
-| Semanti Scout | Multi-modal Product Search | Python, CLIP, Retrieval, Ranking | [View Repo]([https://github.com/divyahegde-07/Churn-Predictor](https://github.com/divyahegde-07/SemantiScout)) |
+| Semanti Scout | Multi-modal Product Search | Python, CLIP, Retrieval, Ranking | [View Repo](https://github.com/divyahegde-07/SemantiScout) |
 | Blue Bikes Demand Forecasting | End-to-end ML pipeline that forecasts demand for BlueBikes in Boston stations. | Python, AirFlow, MLFLow Docker, GCP, Grafana | [View Repo](https://github.com/divyahegde-07/Blue-Bikes-Demand-Forecasting) |
 | Churn-Predictor | Predicts customer churn using ML techniques. | Python, scikit-learn, pandas, AWS Sagemaker | [View Repo](https://github.com/divyahegde-07/Churn-Predictor) |
 
