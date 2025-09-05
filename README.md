@@ -25,6 +25,7 @@ When I’m not deep in code or tinkering with new tools, you’ll probably find 
 | one-L | Legal Conflict detector focused on automating vendor contract reviews. | Python, AWS, Docker, Document conflict detection | [View Repo](https://github.com/The-Burnes-Center/one-L) |
 | Assistive Buyers' Engine | RAG search bot for procurement queries. | Python, AWS, RAGAS, Docker, RAG, Chatbot Evaluation | [View Repo](https://github.com/divyahegde-07/ai4impact-abe-chatbot-osd-dh) |
 | Semanti Scout | Multi-modal Product Search | Python, CLIP, Retrieval, Ranking | [View Repo](https://github.com/divyahegde-07/SemantiScout) |
+| Plug-and-Play Social Media Post Generator | Multi-agent AI system that automatically transforms Cap X's financial articles into compliant, platform-optimized social media posts for LinkedIn and Twitter, using few-shot learning from successful examples and built-in financial compliance checking. | Python, OpenAI API, Agentic, LLM Guardrails | [View Repo](https://github.com/divyahegde-07/Plug-and-Play-Social-Media-Post-Generator) |
 | Blue Bikes Demand Forecasting | End-to-end ML pipeline that forecasts demand for BlueBikes in Boston stations. | Python, AirFlow, MLFLow Docker, GCP, Grafana | [View Repo](https://github.com/divyahegde-07/Blue-Bikes-Demand-Forecasting) |
 | Churn-Predictor | Predicts customer churn using ML techniques. | Python, scikit-learn, pandas, AWS Sagemaker | [View Repo](https://github.com/divyahegde-07/Churn-Predictor) |
 
